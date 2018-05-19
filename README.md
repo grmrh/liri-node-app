@@ -1,4 +1,4 @@
-*** Liri Node App ***
+### Liri Node App ###
 
 * npm package installed:
   * dotenv: "^5.0.1",
